@@ -1,15 +1,3 @@
-# **RAMIRO FALCON**
-
-## 😎 Perfil
-   Estudiante de **Ingeniería de ciencia de 
-   datos e inteligencia artificial.**
-   Interés en el **análisis de datos y 
-   administración de base de datos.**
-   En busca de la empresa que me de la 
-   oportunidad para realizar mis practicas 
-   pre profesionales para perfeccionar mis 
-   habilidades y conocimiento técnico adquirido.
-
 ## 👨‍🎓 Formación 
 - **ING DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL** -
 Escuela superior de tecnología SENATI 2021 - Actualidad}
@@ -38,10 +26,5 @@ Escuela secundaria 2014 - 2018
 | `mkdir` | Crea un nuevo directorio. |
 | `rm` | Elimina archivos y directorios. |
 | `grep` | Busca patrones de texto en un archivo. |
-
-## ⚡ Alias interesantes
-
-+ `alias cl="clear"`
-+ `alias rm="trash"`
 
 
